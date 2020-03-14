@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226483336235",
+    "firebase_url": "https://nicaraguaeterna.firebaseio.com",
+    "project_id": "nicaraguaeterna",
+    "storage_bucket": "nicaraguaeterna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226483336235:android:ea283fb6cc24a44642a66e",
+        "android_client_info": {
+          "package_name": "ni.jugnicaragua.app.chatbotmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226483336235-9o4k3o8chsnfg0bhn0kchi4rotuulauc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTEDCI0TGhrQazqDrC-1VozqVGmrFgAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226483336235-9o4k3o8chsnfg0bhn0kchi4rotuulauc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
